@@ -17,7 +17,6 @@ export default function Resume() {
         <div className="section-wrapper pl-60 pr-60 mb-60">
           <div className="row">
             <Education />
-
             <Experience />
           </div>
         </div>
@@ -25,14 +24,13 @@ export default function Resume() {
         <div className="section-wrapper bg-light-white-2 pt-70 pb-60 pl-60 pr-60">
           <div className="row">
             <Skills />
-
             <Knowledges />
           </div>
         </div>
 
         <div className="footer-copyright text-center pt-25 pb-25">
           <span>
-            © {new Date().getFullYear()} All Rights Reserved by elite-themes24.
+            © {new Date().getFullYear()} All Rights Reserved by Vinit Kumar
           </span>
         </div>
       </div>

@@ -1,6 +1,5 @@
 import Header from "@/components/homes/headers/Header";
 import PersonalInfo from "@/components/homes/personalInfo/PersonalInfo";
-import AboutOne from "@/components/homes/about/AboutOne";
 import Resume from "@/components/homes/resume/Resume";
 import React from "react";
 
@@ -18,7 +17,6 @@ export default function page() {
         <div className="container z-index-3">
           <div className="row">
             <PersonalInfo />
-
             <Resume />
             <MenuTwo />
           </div>

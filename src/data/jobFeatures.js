@@ -1,34 +1,33 @@
 export const items = [
   {
     id: 1,
-    icon: "/assets/img/design.svg",
-    title: "Ui/Ux Design",
-    description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
-    bg: "bg-prink",
+    icon: "/assets/img/webdev.svg",
+    title: "Web Development",
+    description: "Developing web applications and websites using modern technologies and frameworks.",
+        bg: "bg-prink",
   },
   {
     id: 2,
     icon: "/assets/img/app-development.svg",
     title: "App Development",
-    description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
-    bg: "bg-catkrill",
+    description:"Building mobile applications for both Android and iOS platforms. In React Native and Flutter.",
+       bg: "bg-catkrill",
   },
   {
     id: 3,
     icon: "/assets/img/photograph.svg",
     title: "Photography",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "Capturing moments and creating memories. Specializing in portrait and landscape photography.",
     bg: "bg-catkrill",
   },
+
   {
-    id: 4,
-    icon: "/assets/img/webdev.svg",
-    title: "Web Development",
+    id: 1,
+    icon: "/assets/img/design.svg",
+    title: "Ui/Ux Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "Designing user interfaces and experiences for web and mobile applications.",
     bg: "bg-prink",
   },
 ];

@@ -9,9 +9,9 @@ export default function CopyRight() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://themeforest.net/user/elite-themes24"
+            href="https://vinitk.dev"
           >
-            Elite-Themes24
+            Vinit Kumar
           </a>
           .
         </span>

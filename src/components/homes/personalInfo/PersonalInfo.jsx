@@ -51,7 +51,7 @@ export default function PersonalInfo() {
           </div>
 
           <div className="bostami-parsonal-info-btn">
-            <a className="btn-1" href="/cv.pdf" download >
+            <a className="btn-1" href="/Vinit Kumar Resume.pdf" download >
               <span style={{ color: "#fff" }} className="icon">
                 <i className="fa-regular fa-download"></i>
               </span>

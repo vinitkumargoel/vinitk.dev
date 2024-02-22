@@ -1,8 +1,4 @@
 export const bioData = {
-  descOne: `I'm Creative Director and UI/UX Designer
-    from Sydney, Australia, working in web development and print media. I enjoy
-    turning complex problems into simple, beautiful and intuitive designs.`,
-  descTwo: `My aim is to bring across your message and
-    identity in the most creative way. I created web design for many famous brand
-    companies.`,
+  descOne: `Experienced MERN stack engineer skilled in developing scalable. web applications using MongoDB, Express.js, React, and Node.js. Proven ability to collaborate, meet deadlines, and optimize. performance for exceptional user experiences.`,
+  descTwo: `With 9 years of web development expertise, I specialize in React and Node.js, crafting scalable and robust applications. My strong analytical skills ensure timely, budget-friendly project delivery. Fueled by creativity, I stay at the forefront of web development, embracing innovation for effective solutions.`,
 };
